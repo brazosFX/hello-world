@@ -1,2 +1,3 @@
 # hello-world
 This will announce to the world that I have arrived...
+I am writing a little bit about myself.  Not much, just a little bit.
